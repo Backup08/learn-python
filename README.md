@@ -1,8 +1,8 @@
 # learn-python
-Learn Python - Resources
-
-https://pythonspot.com
-https://developers.google.com/edu/python/
-http://learnpythonthehardway.org/book/
-http://www.diveintopython.net/toc/index.html
+Learn Python - Resources <br />
+<br />
+https://pythonspot.com <br />
+https://developers.google.com/edu/python/ <br />
+http://learnpythonthehardway.org/book/ <br />
+http://www.diveintopython.net/toc/index.html <br />
 

@@ -1,4 +1,4 @@
-# learn-python
+# Learn Python
 Learn Python - Resources <br />
 <br />
 https://pythonspot.com <br />
